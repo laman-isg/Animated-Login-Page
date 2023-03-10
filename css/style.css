@@ -41,7 +41,7 @@ section .trees {
 section .girl {
     position: absolute;
     scale: 0.65;
-    animation: animateGirl 15s linear infinite;
+    animation: animateGirl 25s linear infinite;
 }
 @keyframes animateGirl {
     0% {
